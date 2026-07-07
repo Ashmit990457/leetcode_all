@@ -55,12 +55,5 @@ if(val==true&&vis[a][b]==false&&grid[a][b]<=mid){
         }
         return true;
     }
-    class pair{
-        int r;
-        int c;
-        pair(int r,int c){
-            this.r=r;
-            this.c=c;
-        }
-    }
+    
 }
